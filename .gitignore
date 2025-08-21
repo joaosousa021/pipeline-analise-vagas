@@ -1,0 +1,14 @@
+# Ambiente Virtual - IGNORAR
+venv/
+.venv/
+
+# Arquivos temporários do Python - IGNORAR
+__pycache__/
+*.pyc
+
+# Checkpoints do Jupyter - IGNORAR
+.ipynb_checkpoints/
+
+# Arquivos de dados gerados pelo nosso script - IGNORAR
+*.csv
+*.db
